@@ -1,0 +1,15 @@
+Paris-London; 400
+London-New_York; 3000
+New_York-Tokyo; 5000
+London-Tokyo; 4000
+Paris-New_York; 3600
+Paris-Tokyo; 7000
+Sydney-Tokyo; 4000
+Sydney-Beijing; 3000
+Beijing-Moscow; 1600
+Moscow-Cairo; 1200
+Cairo-Madrid; 2000
+Madrid-Mexico_City; 4400
+Mexico_City-Rome; 4000
+Rome-Berlin; 1000
+Amsterdam-Bangkok; 5000
